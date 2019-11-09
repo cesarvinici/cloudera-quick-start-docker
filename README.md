@@ -16,7 +16,7 @@ Ele irá subir a maquina e isso pode levar algum tempo, após, em outro terminal
 
 * Para acessar o Hue basta acessar o endereço no navegador **localhost:8888**
 
-* Para conectar no bash do container e usar hadoop/scoop e afins **docker exec -it quickstart.cloudera bash**
+* Para conectar no bash do container e usar hadoop/sqoop e afins **docker exec -it quickstart.cloudera bash**
 
 
 Dúvidas estou a disposição
